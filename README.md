@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sergioc0sta
-- 👀 I’m interested in to do thinks to make me happy
+- 👀 I'm interested in doing kinds of stuff to make me happy
 - 🌱 I’m currently learning golang and Elixir
 - 📫 How to reach me sergio.md.costa@protonmail.com
 
