@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergioc0sta
 - 👀 I'm interested in doing kinds of stuff to make me happy
-- 🌱 I’m currently learning golang and C++
+- 🌱 I’m currently learning Golang and C
 
 <!---
 sergioc0sta/sergioc0sta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
